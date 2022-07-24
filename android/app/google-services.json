@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001405187269",
+    "project_id": "travelation-35617",
+    "storage_bucket": "travelation-35617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001405187269:android:ac38f6c23a7507acdbdcac",
+        "android_client_info": {
+          "package_name": "com.example.tugaskelompok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001405187269-4q207c70a2kkbiotch4k378h5qeel06o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugaskelompok",
+            "certificate_hash": "f89c768f6e46d439cf9cd672458f45e667ddb093"
+          }
+        },
+        {
+          "client_id": "1001405187269-edv8s4sj0u2ii35823h1b9gg2to5f8rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbiPr1uMDhGi5oDAHFSxzGwESaVLPW94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001405187269-edv8s4sj0u2ii35823h1b9gg2to5f8rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
